@@ -7,7 +7,7 @@ package cariprima;
 import java.util.Scanner;
 /**
  *
- * @author Master
+ * @author ArikJunior
  */
 public class CariPrima {
 
